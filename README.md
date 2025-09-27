@@ -82,7 +82,7 @@ Try changing the parameters to see how it affects the spread of the virus and th
 
 This epidemic simulator features both emergent and sequential processes. Disease spreading, reflecting its natural progression through the population, is an emergent process, while vaccination is a sequential process.
 
-### Illustration
+### Illustration:
 
 <img width="1427" alt="image" src="https://github.com/user-attachments/assets/a33fec7f-06b2-426c-a180-797aa34ef502">
 
